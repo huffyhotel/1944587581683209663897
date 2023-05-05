@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161659064200",
+    "project_id": "loopsie-338a5",
+    "storage_bucket": "loopsie-338a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161659064200:android:f19e4cc7faab2c25af343d",
+        "android_client_info": {
+          "package_name": "com.loopsie.deforumai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161659064200-ool6numupbr6sbq6gm93rq2q419cm5sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcBKrH80-ci_J9sQGqnr_10f5yN-tBn_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161659064200-3gp1qg64c4c7ur8vhn3esupa8ebn8vsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
